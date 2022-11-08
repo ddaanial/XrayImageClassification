@@ -1,4 +1,4 @@
-I implement resnet50 for Xray images to classify normal vs pneumonia.
+I implement resnet50V2 for Xray images to classify normal vs pneumonia.
 
 
 Dataset link:
